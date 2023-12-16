@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify, url_for, render_template
 
 app = Flask(__name__)
 
-# Load the model
+# Load the models
 regmodel = pickle.load(open('best_xgb_model.pkl', 'rb'))
 scaler = pickle.load(open('standard_scaler.pkl', 'rb'))
 

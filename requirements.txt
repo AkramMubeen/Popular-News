@@ -3,5 +3,6 @@ sklearn
 pandas
 joblib
 numpy
+xgboost
 matplotlib
 gunicorn
