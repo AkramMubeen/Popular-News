@@ -88,6 +88,7 @@ The online news popularity prediction application can be containerized using Doc
 ## Deployment:
 
 - The web app was deployed to Heroku cloud using a docker containers and a CI/CD pipeline made with Github Actions.
+- link:https://popular-news-70236b47273b.herokuapp.com/ - not active now
 
 
 ## License:
