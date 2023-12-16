@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project focuses on predicting online news popularity using regression machine learning models. The repository contains files and scripts for data preprocessing, exploratory data analysis, feature engineering, and model training.
+This project focuses on predicting online news popularity using regression machine learning models. The repository contains files and scripts for data preprocessing, exploratory data analysis, feature engineering, and model training.The model was deployed to Heroku cloud.
 
 ## Files:
 
@@ -85,6 +85,10 @@ The online news popularity prediction application can be containerized using Doc
 ## Flask Web Application:
 
 - The web application is built using Flask.
+## Deployment:
+
+- The web app was deployed to Heroku cloud using a docker containers and a CI/CD pipeline made with Github Actions.
+
 
 ## License:
 
